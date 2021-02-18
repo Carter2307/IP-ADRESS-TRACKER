@@ -1,0 +1,14 @@
+{
+  "name": "ip-address-tracker-master",
+  "version": "1.0.0",
+  "description": "IP Adress Tracker Challenge by FRONTEND MENTOR",
+  "main": "app.js",
+  "scripts": {
+    "scss": "node-sass --watch app/SCSS -o dist"
+  },
+  "author": "Roger Bentcha",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
